@@ -1,0 +1,7 @@
+aws_region           = "us-east-1"
+aws_profile          = "lab"
+vpc_id               = "vpc-e44cce99"
+subnet_id            = "subnet-977d0fc8"
+cidr_block_us_east_1a = "172.31.96.0/20"
+cidr_block_us_east_1b = "172.31.112.0/20"
+ami_id                = "ami-0c101f26f147fa7fd"
