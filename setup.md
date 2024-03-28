@@ -19,7 +19,7 @@ To deploy the application, you need to have Terraform installed on your machine.
 1. Clone the repository containing the Terraform files (`.tf`) for the two-tier application:
 
 ```bash
-git clone https://github.com/alaadwaikat-t/two-tier-app-terraform.git
+git clone https://github.com/alaadwaikat-t/two-tier-app.git
 cd two-tier-app-terraform
 ```
 
